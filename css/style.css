@@ -66,7 +66,7 @@ header {
 #bar {
   margin-top: 30px;
   margin-bottom: 30px;
-  background-image: url("/img/hr-img.png");
+  background-image: url("img/hr-img.png");
   background-repeat: repeat;
 }
 
